@@ -62,6 +62,14 @@
       height="40"
     />
   </a>
+   <a href="https://docs.microsoft.com/pt-br/dotnet/core/introduction/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"
+      alt="dotnet-core"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
