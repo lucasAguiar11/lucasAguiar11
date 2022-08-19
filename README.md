@@ -1,3 +1,5 @@
+![](https://hit.yhype.me/github/profile?user_id=48816655)
+
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=lucasAguiar11&color=blueviolet" alt="LinkedIn Badge"/>
 </div>
