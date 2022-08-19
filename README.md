@@ -1,3 +1,7 @@
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=lucasAguiar11&color=blueviolet" alt="LinkedIn Badge"/>
+</div>
+
 <div id="header" align="center">
 <img src="https://i.imgur.com/OOpRj.gif" width="200"/>
 <br/>    
