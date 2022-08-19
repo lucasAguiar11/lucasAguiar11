@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=48816655)
 
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=lucasAguiar11&color=blueviolet" alt="LinkedIn Badge"/>
@@ -188,3 +187,5 @@
 <br />    
     
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasaguiar11&theme=dracula&column=7" alt="lucasaguiar11" /></a> </p>
+    
+![](https://hit.yhype.me/github/profile?user_id=48816655)
