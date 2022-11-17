@@ -19,10 +19,20 @@
 <div align="left">
     <h2 align="left">Meus Sites 🎉</h2>
     <a href="https://dev-helper.com.br" target="_blank" rel="noreferrer">
-        🌟 https://dev-helper.com.br
+        🌟https://dev-helper.com.br
     </a>
 </div>
     
+<div align="left">
+    <h2 align="left">Minhas Libs 🎉</h2>
+    <a href="https://www.npmjs.com/package/credit-card-get-brand" target="_blank" rel="noreferrer">
+        ⚙credit-card-get-brand 
+    </a>
+    <a href="https://www.npmjs.com/package/mathematical-constant" target="_blank" rel="noreferrer">
+        ⚙mathematical-constant 
+    </a>
+</div>
+
 <br />
 <br />
 <br />
