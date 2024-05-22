@@ -1,11 +1,7 @@
 
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=lucasAguiar11&color=blueviolet" alt="LinkedIn Badge"/>
-</div>
-
 <div id="header" align="center">
 <img src="https://i.imgur.com/OOpRj.gif" width="200"/>
-<br/>    
+<br/>   
 <div id="badges">
 <a href="https://www.linkedin.com/in/lucas-aguiar11/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -38,29 +34,16 @@
     <a href="https://www.npmjs.com/package/mathematical-constant" target="_blank" rel="noreferrer">
         ⚙mathematical-constant 
     </a>
+    <a href="https://jitpack.io/#lucasAguiar11/kotlin-baselime-logger" target="_blank" rel="noreferrer">
+        ⚙kotlin-baselime-logger 
+    </a>
 </div>
 
 <br />
-<br />
-<br />
-
-<div align="center" />
   
-<div align="center">
-<a href="https://github.com/lucasAguiar11">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasAguiar11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasAguiar11&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-<br />
-  
-<div>
-  
-![Snake animation](https://github.com/lucasAguiar11/lucasAguiar11/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
@@ -179,5 +162,3 @@
 
 
 <br />    
-    
-![](https://hit.yhype.me/github/profile?user_id=48816655)
